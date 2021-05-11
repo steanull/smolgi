@@ -2,5 +2,6 @@
     background-image: url(../../images/header-desktop-background.png);
     background-position: center top;
     background-color:#182c11;
-    min-height:825px;
+    height:100vh;
+    padding-top: 84px;
 }

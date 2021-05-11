@@ -1,2 +1,14 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__wrapper/header__wrapper.css);
+@import url(../blocks/header/__inner/header__inner.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__contacts/header__contacts.css);
+@import url(../blocks/header-cart/header-cart.css);
+@import url(../blocks/header-cart/__icon/header-cart__icon.css);
+@import url(../blocks/header-cart/__count/header-cart__count.css);
+@import url(../blocks/contacts-header/contacts-header.css);
+@import url(../blocks/contacts-header/__address/contacts-header__address.css);
+@import url(../blocks/contacts-header/__icon/contacts-header__icon.css);
+@import url(../blocks/contacts-header/__phone/contacts-header__phone.css);

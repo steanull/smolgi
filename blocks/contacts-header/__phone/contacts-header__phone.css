@@ -1,0 +1,14 @@
+.contacts-header__phone {
+    color: #fff;
+    font-family: Montserrat, serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.5;
+    text-decoration: none;
+    transition: .3s;
+    width: 100%;
+}
+
+.contacts-header__phone:hover {
+    color: #ffe63e;
+}
