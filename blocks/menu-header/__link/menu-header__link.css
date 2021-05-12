@@ -1,0 +1,11 @@
+.menu-header__link {
+    color: #c6dd9f;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    transition: .4s;
+}
+
+.menu-header__link:hover {
+    color: #ffe63e;
+}
