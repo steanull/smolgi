@@ -1,0 +1,6 @@
+.call {
+    background-image: url(../../images/header-desktop-background.png);
+    background-position: center top;
+    background-color:#182c11;
+    box-sizing: border-box;
+}

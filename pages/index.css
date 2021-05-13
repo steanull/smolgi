@@ -39,6 +39,11 @@
 @import url(../blocks/advantages/__item/advantages__item.css);
 @import url(../blocks/advantages/__image/advantages__image.css);
 @import url(../blocks/advantages/__description/advantages__description.css);
+@import url(../blocks/where-to-buy/where-to-buy.css);
+@import url(../blocks/where-to-buy/__image/where-to-buy__image.css);
+@import url(../blocks/where-to-buy/__subtitle/where-to-buy__subtitle.css);
+@import url(../blocks/where-to-buy/__list/where-to-buy__list.css);
+@import url(../blocks/where-to-buy/__item/where-to-buy__item.css);
 
 ::selection
 {

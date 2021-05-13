@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3a49b2-437d-49e2-9553-00568150394c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/call/call.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__image/where-to-buy__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__item/where-to-buy__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__list/where-to-buy__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__subtitle/where-to-buy__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/where-to-buy.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/about-us/__image/about-us__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/main-content/__image/main-content__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/about-us/__paragraph/about-us__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/main-content/__paragraph/main-content__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/about-us/about-us.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/main-content/main-content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/advantages/__image/advantages__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/advantages/__image/advantages__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/section-title/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -41,6 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../how-to-learn" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +67,7 @@
       <workItem from="1620326188159" duration="4428000" />
       <workItem from="1620392861490" duration="1820000" />
       <workItem from="1620673699242" duration="21886000" />
-      <workItem from="1620904629725" duration="12316000" />
+      <workItem from="1620904629725" duration="15023000" />
     </task>
     <servers />
   </component>
