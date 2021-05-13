@@ -34,6 +34,11 @@
 @import url(../blocks/product-card/__description/product-card__description.css);
 @import url(../blocks/product/product.css);
 @import url(../blocks/product/__wrapper/product__wrapper.css);
+@import url(../blocks/advantages/advantages.css);
+@import url(../blocks/advantages/__list/advantages__list.css);
+@import url(../blocks/advantages/__item/advantages__item.css);
+@import url(../blocks/advantages/__image/advantages__image.css);
+@import url(../blocks/advantages/__description/advantages__description.css);
 
 ::selection
 {

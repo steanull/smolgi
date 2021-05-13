@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3a49b2-437d-49e2-9553-00568150394c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__description/product-card__description.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/__image/product-card__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product-card/product-card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product/__wrapper/product__wrapper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/product/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/advantages/__description/advantages__description.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/advantages/__image/advantages__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/advantages/__item/advantages__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/advantages/__list/advantages__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/advantages/advantages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/krem_balzam_smolgi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/product/__wrapper/product__wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/product/__wrapper/product__wrapper.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -64,7 +64,7 @@
       <workItem from="1620326188159" duration="4428000" />
       <workItem from="1620392861490" duration="1820000" />
       <workItem from="1620673699242" duration="21886000" />
-      <workItem from="1620904629725" duration="9371000" />
+      <workItem from="1620904629725" duration="11183000" />
     </task>
     <servers />
   </component>
