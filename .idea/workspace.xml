@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3a49b2-437d-49e2-9553-00568150394c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/call/call.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__image/where-to-buy__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__item/where-to-buy__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__list/where-to-buy__list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/__subtitle/where-to-buy__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/where-to-buy/where-to-buy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/call/__input/call__iput.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/call/__wrapper/call__wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/page/__offset/page__offset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_white.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/advantages/__image/advantages__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/advantages/__image/advantages__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/section-title/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/call/call.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/call/call.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -67,7 +64,7 @@
       <workItem from="1620326188159" duration="4428000" />
       <workItem from="1620392861490" duration="1820000" />
       <workItem from="1620673699242" duration="21886000" />
-      <workItem from="1620904629725" duration="15023000" />
+      <workItem from="1620904629725" duration="16562000" />
     </task>
     <servers />
   </component>

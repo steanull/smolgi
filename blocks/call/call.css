@@ -1,6 +1,8 @@
 .call {
-    background-image: url(../../images/header-desktop-background.png);
+    background-color: #182c11;
+    background-image: url(../../images/wtbuy_background.png);
+    min-height: 1024px;
+    width: 100%;
     background-position: center top;
-    background-color:#182c11;
     box-sizing: border-box;
 }
