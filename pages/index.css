@@ -29,6 +29,11 @@
 @import url(../blocks/about-us/about-us.css);
 @import url(../blocks/about-us/__paragraph/about-us__paragraph.css);
 @import url(../blocks/about-us/__image/about-us__image.css);
+@import url(../blocks/product-card/product-card.css);
+@import url(../blocks/product-card/__image/product-card__image.css);
+@import url(../blocks/product-card/__description/product-card__description.css);
+@import url(../blocks/product/product.css);
+@import url(../blocks/product/__wrapper/product__wrapper.css);
 
 ::selection
 {

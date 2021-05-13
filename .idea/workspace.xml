@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3a49b2-437d-49e2-9553-00568150394c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__image/about-us__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/__paragraph/about-us__paragraph.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/about-us/about-us.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/content/__main/content__main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/content/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__image/header__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/header/__menu/header__menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/product-card/__description/product-card__description.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/product-card/__image/product-card__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/product-card/product-card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/product/__wrapper/product__wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/product/product.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/contacts-header/__address/contacts-header__address.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/contacts-header/__address/contacts-header__address.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/contacts-header/__icon/contacts-header__icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/contacts-header/__icon/contacts-header__icon.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/contacts-header/__phone/contacts-header__phone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/contacts-header/__phone/contacts-header__phone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/contacts-header/contacts-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/contacts-header/contacts-header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__description/header__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__description/header__description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__inner/header__inner.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__inner/header__inner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__title/header__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__title/header__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/menu-header/__item/menu-header__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu-header/__item/menu-header__item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/menu-header/__link/menu-header__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu-header/__link/menu-header__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/menu-header/__list/menu-header__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/menu-header/__list/menu-header__list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/__button/page__button.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/__button/page__button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/krem_balzam_smolgi.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -35,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -51,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -77,7 +64,7 @@
       <workItem from="1620326188159" duration="4428000" />
       <workItem from="1620392861490" duration="1820000" />
       <workItem from="1620673699242" duration="21886000" />
-      <workItem from="1620904629725" duration="6005000" />
+      <workItem from="1620904629725" duration="9371000" />
     </task>
     <servers />
   </component>
