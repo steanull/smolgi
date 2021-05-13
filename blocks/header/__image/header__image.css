@@ -1,0 +1,10 @@
+.header__image {
+    display: block;
+    pointer-events: none;
+    position: absolute;
+    object-fit: cover;
+    object-position: top right;
+    top: 0;
+    right: 0;
+    z-index: 3;
+}

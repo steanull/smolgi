@@ -1,5 +1,7 @@
 .contacts-header {
-    width: 300px;
-    display:flex;
-
+    width: 370px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
 }

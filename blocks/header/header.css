@@ -1,7 +1,8 @@
 .header {
     background-image: url(../../images/header-desktop-background.png);
-    background-position: center top;
+    background-position: center bottom;
     background-color:#182c11;
     height:100vh;
-    padding-top: 84px;
+    padding-top: 74px;
+    box-sizing: border-box;
 }
