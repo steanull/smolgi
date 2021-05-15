@@ -1,0 +1,33 @@
+.call__input {
+    border: 0;
+    border-radius: 42px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 10px 0;
+    padding: 14px 0 14px 80px;
+    width: 75%;
+    max-width: 650px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-position: 30px center;
+    background-size: 35px;
+    background-color: rgba(255,255,255,0.4);
+    outline:none;
+    transition: .4s;
+}
+
+.call__input:nth-of-type(1) {
+    background-image: url("../../../images/user.svg");
+}
+
+.call__input:nth-of-type(2) {
+    background-image: url("../../../images/call.svg");
+}
+
+.call__input:nth-of-type(3) {
+    background-image: url("../../../images/email.svg");
+}
+.call__input:hover {
+    background-color: rgba(255,255,255,0.2);
+}

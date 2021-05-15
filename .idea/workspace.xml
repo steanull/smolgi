@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da3a49b2-437d-49e2-9553-00568150394c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/call/__input/call__iput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/call/__wrapper/call__wrapper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/page/__offset/page__offset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_white.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/call/__form/call__form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/call/__input/call__input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/call/__label/call__label.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/call/__textarea-label/call__textarea-label.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/call/__textarea/call__textarea.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/call/call.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/call/call.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/call/__input/call__iput.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/call.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/call.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/email.svg" beforeDir="false" afterPath="$PROJECT_DIR$/images/email.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
@@ -48,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blocks/call" />
       <recent name="$PROJECT_DIR$/blocks/contacts-header/__phone" />
       <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$/fonts/montserrat" />
@@ -64,7 +68,11 @@
       <workItem from="1620326188159" duration="4428000" />
       <workItem from="1620392861490" duration="1820000" />
       <workItem from="1620673699242" duration="21886000" />
-      <workItem from="1620904629725" duration="16562000" />
+      <workItem from="1620904629725" duration="17198000" />
+      <workItem from="1621021412545" duration="66000" />
+      <workItem from="1621021490568" duration="630000" />
+      <workItem from="1621029650797" duration="633000" />
+      <workItem from="1621074245992" duration="8153000" />
     </task>
     <servers />
   </component>

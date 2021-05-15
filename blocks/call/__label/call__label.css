@@ -1,0 +1,13 @@
+.call__label {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 50%;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.call__label:last-of-type {
+    align-items: flex-end;
+}
+

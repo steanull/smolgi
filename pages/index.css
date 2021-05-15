@@ -47,8 +47,12 @@
 @import url(../blocks/where-to-buy/__item/where-to-buy__item.css);
 @import url(../blocks/call/call.css);
 @import url(../blocks/call/__wrapper/call__wrapper.css);
-@import url(../blocks/call/__input/call__iput.css);
+@import url(../blocks/call/__input/call__input.css);
 @import url(../blocks/section-title/_theme/section-title_theme_white.css);
+@import url(../blocks/call/__form/call__form.css);
+@import url(../blocks/call/__label/call__label.css);
+@import url(../blocks/call/__textarea/call__textarea.css);
+@import url(../blocks/call/__textarea-label/call__textarea-label.css);
 
 ::selection
 {

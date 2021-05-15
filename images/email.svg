@@ -1,3 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.975" height="22.037" viewBox="0 0 2146 1479">
-  <image id="Слой_1" data-name="Слой 1" x="6" y="6" width="2134" height="1467" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAWCAYAAAChWZ5EAAAB5UlEQVRIicWWz0tVQRTHv4mGKFmatBUqjBaCGyEQKxcSgWVRWKLLcCGtcpsLU5dBYQgiKibStpbiQvoLok0hhUiYP9B4z1W0iE8cmAuH4b3n1d57fuFe7sw59/v9zsyZufcU8FjSuKQLKi/2JI2YgQ1JTWUWT7BZIalD0tIJiL+T1C4guR4C25Qeu8CjRNduk8C50FEDzJXQwgJQG7TqgNcKgQxwz81GD/CjiMKbwH3Hfxf4ZQFrZF3ivHNYCUwXQXwGOB04q4FZF8ta50H0wg7Q69zeBtaPIbwBdDueB8BWlHOQy0CCJeCsI5g8gvgUUOHWejFPXkEDhHXqdya6gLUC+d+AWy6/D9grkH+ogQQfgWuB1Eb2MkfOq1A3ltMGrKbgTW2AMBp/btwAfoazozOK9abkTGXAqvaM2xnDQLNrV4XnS8AzV/G1YQcc28DXaD2tor+H2B9g0MWeAL9DzHbMnahuvhzVwIQjqAfe5iH4ALzPE7PKb3A8Y/kMZFyHFVtrNLJMjhfTIhvNVEtUnBm5xlOXeAVY/g/hGCvAVcc/BPy1HIWpuuyCz4soHGPE6Vy0j5PfOteBTyUUT/AZuOk/x+eBN2UQjmHHdaP9kq1Jaj6BPyLDuhkYkPRCUmOZxfcljf4D/GANMxXvrd4AAAAASUVORK5CYII="/>
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="417.744" width="417.744" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <polygon fill="#fcc400" id="svg_3" points="339.392,258.624 512,367.744 512,144.896   "/>
+   </g>
+  </g>
+  <g id="svg_4">
+   <g id="svg_5">
+    <polygon fill="#fcc400" id="svg_6" points="-1,144.89599609375 -1,367.7439880371094 171.60800170898438,258.6239929199219 "/>
+   </g>
+  </g>
+  <g id="svg_7">
+   <g id="svg_8">
+    <path fill="#fcc400" id="svg_9" d="m480,80l-448,0c-15.968,0 -28.64,11.903999 -31.04,27.232002l255.04,168.032005l255.039978,-168.031998c-2.399963,-15.328011 -15.071991,-27.23201 -31.039978,-27.23201z"/>
+   </g>
+  </g>
+  <g id="svg_10">
+   <g id="svg_11">
+    <path fill="#fcc400" id="svg_12" d="m308.079987,277.951996l-45.279999,29.824005c-2.687988,1.759979 -5.727997,2.623993 -8.800003,2.623993c-3.071991,0 -6.112,-0.864014 -8.800003,-2.623993l-45.279999,-29.856018l-200.895983,127.072021c2.464,15.199982 15.072001,27.007996 30.976,27.007996l448,0c15.903992,0 28.511993,-11.808014 30.976013,-27.007996l-200.896027,-127.040009z"/>
+   </g>
+  </g>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <g id="svg_21"/>
+  <g id="svg_22"/>
+  <g id="svg_23"/>
+  <g id="svg_24"/>
+  <g id="svg_25"/>
+  <g id="svg_26"/>
+  <g id="svg_27"/>
+ </g>
 </svg>

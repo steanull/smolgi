@@ -158,22 +158,33 @@
       </ul>
     </div>
   </section>
-  <div class="call page__offset">
+  <div class="call page__offset" id="contacts">
     <div class="call__wrapper">
       <h2 class="section-title section-title_theme_white">Ответим на любой Ваш вопрос</h2>
-      <form action="" method="post" id="form_message">
-        <label>
-          <input class="call__input" class="input back1" name="fio-fm" type="text" placeholder="ИМЯ" required>
-          <input class="input" name="phone-fm" type="text" placeholder="ТЕЛЕФОН " required>
-          <input class="input" name="email-fm" type="text" placeholder="EMAIL" required>
+      <form class="call__form" action="" method="post" id="form_message">
+        <div class="call__label">
+          <label>
+            <input class="call__input" name="fio-fm" type="text" placeholder="ИМЯ" required>
+          </label>
+          <label>
+            <input class="call__input" name="phone-fm" type="text" placeholder="ТЕЛЕФОН " required>
+          </label>
+          <label>
+            <input class="call__input" name="email-fm" type="text" placeholder="EMAIL" required>
+          </label>
+        </div>
+        <div class="call__label">
+          <label class="call__textarea-label">
           <textarea
-              class="textarea"
+              class="call__textarea"
               name="user_comment-fm"
               cols="22"
               rows="5"
-              placeholder="ТЕКСТ СООБЩЕНИЯ"></textarea>
-          <input class="page__button" id="submit" value="ОТПРАВИТЬ" type="submit"/>
-        </label>
+              placeholder="ТЕКСТ СООБЩЕНИЯ">
+          </textarea>
+          </label>
+          <button class="page__button" id="submit" type="submit">Отправить</button>
+        </div>
       </form>
     </div>
   </div>
