@@ -53,6 +53,11 @@
 @import url(../blocks/call/__label/call__label.css);
 @import url(../blocks/call/__textarea/call__textarea.css);
 @import url(../blocks/call/__textarea-label/call__textarea-label.css);
+@import url(../blocks/reviews/reviews.css);
+@import url(../blocks/reviews/__list/reviews__list.css);
+@import url(../blocks/reviews/__item/reviews__item.css);
+@import url(../blocks/reviews/__name/reviews__name.css);
+@import url(../blocks/reviews/__paragraph/reviews__paragraph.css);
 
 ::selection
 {
