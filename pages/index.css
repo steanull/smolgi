@@ -58,6 +58,7 @@
 @import url(../blocks/reviews/__item/reviews__item.css);
 @import url(../blocks/reviews/__name/reviews__name.css);
 @import url(../blocks/reviews/__paragraph/reviews__paragraph.css);
+@import url(../blocks/footer/footer.css);
 
 ::selection
 {
