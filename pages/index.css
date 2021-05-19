@@ -60,8 +60,7 @@
 @import url(../blocks/reviews/__paragraph/reviews__paragraph.css);
 @import url(../blocks/footer/footer.css);
 
-::selection
-{
-    background:#2a441b;
-    color:#fff;
+::selection {
+  background: #2a441b;
+  color: #fff;
 }
